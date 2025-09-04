@@ -1,0 +1,2 @@
+# sophy-desktop
+Sophyのデスクトップコンパニオン！
