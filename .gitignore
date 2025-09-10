@@ -1,3 +1,9 @@
+# Users
+src/assets/
+build/
+.vscode/
+
+
 # Logs
 logs
 *.log
